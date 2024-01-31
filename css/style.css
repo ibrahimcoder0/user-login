@@ -1,0 +1,29 @@
+/* 
+X small                         < 576px
+Small                   sm      > 576px
+Medium                  md      > 768px
+Large                   lg      > 992px
+Extra Large             xl      > 1200px
+Extra Extra Large       xxl     > 1400px
+*/
+
+/* 
+X small                         < 100%
+Small                   sm      > 540px
+Medium                  md      > 720px
+Large                   lg      > 960px
+Extra Large             xl      > 1140px
+Extra Extra Large       xxl     > 1320px
+*/
+
+
+
+
+.form-login{
+    background-color: rgb(236, 240, 241, .35);
+    border-radius: 10px;
+    padding: 20px;
+    margin: auto;
+    max-width: 445px;
+    width: 100%;
+}
